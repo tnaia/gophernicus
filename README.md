@@ -1,2 +1,2 @@
 # gophernicus
-gophernicus is at https://github.com/kimholviala/gophernicus.
+gophernicus is at https://github.com/gophernicus/gophernicus.
